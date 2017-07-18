@@ -1,5 +1,3 @@
-# hello-world
+# HM_SILAC project
 
-
-
-K I L L E R Q U E E N
+Bioinformatics tool for analysis of hmSILAC experiments
